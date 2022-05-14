@@ -18,4 +18,4 @@
 
 ##
 
-🚀 Tenho alguns anos na carreira como desenvolvedor web, apaixonado por tecnologia e projetos inovadores e de alto valor agregado para a sociedade em geral.
+🚀 Tenho alguns projetos na carreira como desenvolvedor web, apaixonado por tecnologia e projetos inovadores e de alto valor agregado para a sociedade em geral.
