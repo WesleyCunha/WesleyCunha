@@ -20,3 +20,8 @@
 ##
 
 🚀 Tenho alguns projetos na carreira como desenvolvedor web, apaixonado por tecnologia e projetos inovadores e de alto valor agregado para a sociedade em geral.
+
+<div>
+    <a href="https://www.instagram.com/wesleycsv"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
